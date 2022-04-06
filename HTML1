@@ -1,0 +1,7 @@
+<body background="Opera Snapshot_2022-03-04-183640_online-Video-cutter.com">
+<h1>ORDER A STOVE FOR 10</h1>
+<H1>NOT IN STOCK</H1>
+</body>
+<head>
+<button name="SIMPLE_BUTTON" type="button" onclick="cosole.log('GO')">ADD TO CART</button>
+</head>
